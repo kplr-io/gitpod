@@ -1,5 +1,5 @@
-def add(x+y)
-    return x + y
+def add(a+b):
+    return a + b
 
 def multi(a,b):
     return a*b
